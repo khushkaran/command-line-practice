@@ -1,0 +1,2 @@
+mv takes a path as an argument, which is moved to the path specified at the second argument.
+mv can also be used to rename files.
