@@ -1,0 +1,5 @@
+wc is short for word count, using this command one can received information on number of lines, words or characters an input has.
+Using switches you can get the info you want i.e.
+-l :: number of lines
+-w :: number of words
+-c :: number of characters
